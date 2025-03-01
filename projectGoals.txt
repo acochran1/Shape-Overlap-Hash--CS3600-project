@@ -24,7 +24,7 @@ ESSENTIALS
 	-returns line segment / 2 indexes of points (round up, round down)
 
 -------------------------------------------------absolute minimum ^^^^^
--add case and branch for bottom half
+-add case for bottom half
 
 -make sure to share points between top and bottom half if necessary
 
